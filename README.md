@@ -5,7 +5,7 @@ This project is a cloud-native e-commerce platform built using microservices arc
 ## Architecture
 
 Here is the overall architecture of the microservices system:
-![E-Commerce Microservices Domain Model](<img width="1088" alt="Screenshot 2024-08-23 at 00 50 15" src="https://github.com/user-attachments/assets/a7b1312f-50f3-47aa-b69e-b67f9ee2f023">)
+![E-Commerce Microservices Domain Model](./docs/diagram.png)
 
 - **Customer Domain**: Manages customer information, including the customer details and address.
 - **Product Domain**: Contains details about products and their categories.
